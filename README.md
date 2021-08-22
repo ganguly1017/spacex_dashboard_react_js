@@ -1,5 +1,5 @@
 # spacex_dashboard_react_js
-Spacex rocket launch dashboard create spacex dummp api using ReactJS
+SpaceX rocket launch dashboard. Created using SpaceX dummy REST API & ReactJS.
 
 # Problem Statement
 https://public.3.basecamp.com/p/PNTa1DW9MFFHTts9NspXSHhM
